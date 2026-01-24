@@ -65,7 +65,7 @@
 
 ### 🧠 Most Used Language
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omrajputt369-byte&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omrajputt369&theme=tokyonight" />
 </p>
 ---
 

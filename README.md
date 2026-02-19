@@ -37,7 +37,7 @@
 ### 🧑🏻‍💻 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,js,swift,html,css,react,tailwind,vite&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,js,html,css,react,tailwind,vite&theme=light" />
   </a>
 </p>
 
